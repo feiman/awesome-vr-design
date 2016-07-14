@@ -20,6 +20,8 @@
 
 ###设计工具
 
+*[C4D教程](http://greyscalegorilla.com/tutorials/)： 灰猩猩的C4D教程，专注于C4D教程的团队。
+
 ###设计文章
 
 * [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.4mo2av5eq): Jean-Marc Denis([中文翻译](https://zhuanlan.zhihu.com/p/21579322))
