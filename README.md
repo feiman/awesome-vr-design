@@ -23,3 +23,4 @@
 ###设计文章
 
 * [From product design to virtual reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b#.4mo2av5eq): Jean-Marc Denis([中文翻译](https://zhuanlan.zhihu.com/p/21579322))
+* [THE FUNDAMENTALS OF USER EXPERIENCE IN VIRTUAL REALITY](http://www.blockinterval.com/project-updates/2015/10/15/user-experience-in-virtual-reality): Daniel Allen
