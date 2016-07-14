@@ -20,7 +20,7 @@
 
 ###设计工具
 
-*[C4D教程](http://greyscalegorilla.com/tutorials/)： 灰猩猩的C4D教程，专注于C4D教程的团队。
+* [C4D教程](http://greyscalegorilla.com/tutorials/)： 灰猩猩的C4D教程，专注于C4D教程的团队。
 
 ###设计文章
 
