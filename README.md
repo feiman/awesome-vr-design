@@ -20,11 +20,16 @@
 
 ###设计工具
 
+* [Blender](https://www.blender.org/)：开源且功能强大的全功能3D软件
 * [sketch-to-vr](https://github.com/vere/Sketch-to-VR): sketch插件，用sketch快速制作VR原型。
 
 ###设计资源
 
 * [C4D教程](http://greyscalegorilla.com/tutorials/)： 灰猩猩的C4D教程，专注于C4D教程的团队。
+* [3dwarehouse](https://3dwarehouse.sketchup.com/)：sketchup模型下载
+* [clara.io](https://clara.io/library)：每个模型都有多种常见3D格式供下载，免费
+
+
 
 ###设计文章
 
