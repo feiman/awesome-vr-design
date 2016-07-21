@@ -21,7 +21,9 @@
 ###设计工具
 
 * [Blender](https://www.blender.org/)：开源且功能强大的全功能3D软件
+* [MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main#)：免费的体素创建软件，快速创建像素风格三维模型
 * [sketch-to-vr](https://github.com/vere/Sketch-to-VR): sketch插件，用sketch快速制作VR原型。
+* [Affinity](https://affinity.serif.com/zh-cn/): 非常好用的图形设计软件
 
 ###设计资源
 
